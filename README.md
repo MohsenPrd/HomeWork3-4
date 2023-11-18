@@ -1,2 +1,6 @@
-# HomeWork3-4
-# HomeWork3-4
+# HomeWork3: ice-cream-store project
+
+# HomeWork4: rock-paper-scissors project
+
+
+
